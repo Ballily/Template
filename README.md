@@ -1,6 +1,6 @@
 📋 Website Template Project
 
-📸 Preview Here's a sneak peek at what your project will look like:
+📸 Preview Here's 
 <p align="left">
   <img src="https://github.com/user-attachments/assets/652aa00b-4b34-47af-ace9-d677df68e1ca" width="300" alt="Screenshot 1">
   <br>
